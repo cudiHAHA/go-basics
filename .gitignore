@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Go build/test
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Editor
+.vscode/settings.json
